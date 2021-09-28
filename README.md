@@ -1,4 +1,3 @@
-
 # Management-Program
 
 A Management System for the elaboration of User System
@@ -15,10 +14,17 @@ A Management System for the elaboration of User System
   
 # Screenshots
 
-<img src="/images/bio.png">BIO</img>
-<img src="/images/login.png">LOGIN</img>  
-<img src="/images/confirm.png">CONFIRM</img> 
-<img src="/images/dashboard.png">DASHBOARD</img> 
-<img src="/images/info.png">INFO</img> 
-<img src="/images/main.png">MAIN</img> 
-<img src="/images/registration.png">REGISTRATION</img> 
+#BIO
+<img src="/images/bio.png"></img>
+#LOGIN
+<img src="/images/login.png"></img> 
+#CONFIRM 
+<img src="/images/confirm.png"></img> 
+#DASHBOARD
+<img src="/images/dashboard.png"></img> 
+#INFO
+<img src="/images/info.png"></img> 
+#MAIN
+<img src="/images/main.png"></img> 
+#REGISTRATION
+<img src="/images/registration.png"></img> 
