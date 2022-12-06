@@ -4,7 +4,6 @@
 #include <string.h>
 #include <stdlib.h>
 #include <time.h>
-#include <conio.h>
 
 // DECLARATION OF FUNCTIONS
 void confirm();
